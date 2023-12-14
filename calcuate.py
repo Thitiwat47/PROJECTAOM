@@ -6,4 +6,3 @@ print(ADD)
 print(MINUS)
 print(MULTI)
 print(DIV)
-
